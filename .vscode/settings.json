@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.osx": {
-        "PATH": "/Users/claxtdj1/.platformio/penv/bin:/Users/claxtdj1/.platformio/penv:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
